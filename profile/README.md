@@ -1,11 +1,12 @@
-<a href="https://configu.com?utm_source=github" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/configu/.github/main/assets/icon/white.svg">
-    <img alt="Configu Logo" src="https://raw.githubusercontent.com/configu/.github/main/assets/icon/black.svg" width="280"/>
-  </picture>
-</a>
-
-<br/>
+<p align="center">
+  <br/>
+  <a href="https://configu.com?utm_source=github" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/configu/.github/main/assets/logo/white.svg">
+      <img alt="Configu Logo" src="https://raw.githubusercontent.com/configu/.github/main/assets/logo/black.svg" width="256"/>
+    </picture>
+  </a>
+</p>
 
 This is the official organization of Configu[^origin].
 
