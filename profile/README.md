@@ -8,9 +8,9 @@
     <img alt="Configu Logo" src="https://raw.githubusercontent.com/configu/.github/main/assets/logo/blue.svg" width="256"/>
   </a>
 </p>
-<p align="center">
-  <strong>👋 This is the official organization of Configu[^origin]. 👋</strong>
-</p>
+<!-- <p align="center"> -->
+<!-- </p> -->
+👋 This is the official organization of Configu[^origin]. 👋
 
 [^origin]: software **configu**~~ration~~ data.
 
