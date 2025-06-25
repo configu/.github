@@ -15,8 +15,6 @@
 
 > At Configu, we're on an inspiring mission to revolutionize software configuration management. We're turning complex and tedious manual configuration tasks into an effortless and intuitive experience. Our goal is clear: help engineers move faster, reduce errors, and enjoy a simplified workflow. Just as Git transformed the way teams collaborate on source code, Configu is setting the new standard in managing configurations. Join us in creating a streamlined, unified, and frictionless software development world.
 
----
-
 - 🌐 **New here?** Check out our [website](https://configu.com/?utm_source=github&utm_medium=community_health) for an easy introduction.
 - ☁️ **Prefer a managed solution?** Try the [Configu Platform](https://app.configu.com/?utm_source=github&utm_medium=community_health&sign_up=true) for seamless configuration management.
 - 📖 **Getting started?** Follow our [step-by-step guide](https://configu.com/docs/get-started/?utm_source=github&utm_medium=community_health).
