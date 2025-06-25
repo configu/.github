@@ -1,22 +1,26 @@
 <p align="center">
   <br/>
   <a href="https://configu.com?utm_source=github" target="_blank">
-    <picture>
+    <!-- <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/configu/.github/main/assets/logo/white.svg">
       <img alt="Configu Logo" src="https://raw.githubusercontent.com/configu/.github/main/assets/logo/black.svg" width="256"/>
-    </picture>
+    </picture> -->
+    <img alt="Configu Logo" src="https://raw.githubusercontent.com/configu/.github/main/assets/logo/blue.svg" width="256"/>
   </a>
 </p>
-
-This is the official organization of Configu[^origin].
+<p align="center">
+  <strong>👋 This is the official organization of Configu[^origin]. 👋</strong>
+</p>
 
 [^origin]: software **configu**~~ration~~ data.
 
-> We are on a mission to redefine the essence of software configuration management, making it a seamless, intuitive process. By eliminating the complexities and manual intricacies associated with configuration files, we aim to drastically shorten development cycles and empower developers. Configu aspires to be the benchmark in configuration management, akin to GitHub's role in source code management, transforming configuration into a streamlined, unified, and error-free aspect of software development.
+> At Configu, we’re on an exciting mission to transform software configuration management into an effortless and intuitive process. By eliminating the complexity and tedious manual work associated with traditional configuration files, we empower developers to work faster, more confidently, and with fewer errors. Configu strives to become the industry standard for managing configurations, much like Git revolutionized source code collaboration. Join us in shaping a simpler, streamlined, and error-free software development world.
 
-- 🌐 If you are new to Configu, visit our [website](https://configu.com/?utm_source=github&utm_medium=community_health) for a brief introduction
-- ☁️ If you prefer using a managed product, try [Configu Platform](https://app.configu.com/?utm_source=github&utm_medium=community_health&sign_up=true)
-- 📖 A step-by-step guide is available on [Configu Docs](https://configu.com/docs/get-started/?utm_source=github&utm_medium=community_health)
-- 💾 [configu/configu](https://github.com/configu/configu) is the main monorepo of Configu core, interfaces, docs, etc
-- 💬 Feel free to [join our Discord server](https://discord.gg/cjSBxnB9z8) to let us know your thoughts
-- 📝 Visit our [blog](https://configu.com/blog/?utm_source=github&utm_medium=community_health) to see our news, practical posts and resources
+---
+
+- 🌐 New to Configu? Visit our [website](https://configu.com/?utm_source=github&utm_medium=community_health) for a quick overview
+- ☁️ Want a managed experience? Try [Configu Platform](https://app.configu.com/?utm_source=github&utm_medium=community_health&sign_up=true)
+- 📖 Need help getting started? Follow the [step-by-step guide](https://configu.com/docs/get-started/?utm_source=github&utm_medium=community_health) on our docs
+- 💾 Core source code, interfaces, and docs live in [configu/configu](https://github.com/configu/configu)
+- 💬 Join our [Discord server](https://discord.gg/cjSBxnB9z8) to share your thoughts and ask questions
+- 📝 Check out our [blog](https://configu.com/blog/?utm_source=github&utm_medium=community_health) for updates, how-tos, and resources
