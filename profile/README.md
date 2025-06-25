@@ -8,9 +8,10 @@
     <img alt="Configu Logo" src="https://raw.githubusercontent.com/configu/.github/main/assets/logo/blue.svg" width="256"/>
   </a>
 </p>
-<!-- <p align="center"> -->
-<!-- </p> -->
-👋 This is the official organization of Configu[^origin]. 👋
+
+<p align="center">
+  <strong>👋 Welcome to the official Configu GitHub organization! 👋</strong>
+</p>
 
 > At Configu, we’re on an exciting mission to transform software configuration management into an effortless and intuitive process. By eliminating the complexity and tedious manual work associated with traditional configuration files, we empower developers to work faster, more confidently, and with fewer errors. Configu strives to become the industry standard for managing configurations, much like Git revolutionized source code collaboration. Join us in shaping a simpler, streamlined, and error-free software development world.
 
@@ -22,5 +23,3 @@
 - 💾 Core source code, interfaces, and docs live in [configu/configu](https://github.com/configu/configu)
 - 💬 Join our [Discord server](https://discord.gg/cjSBxnB9z8) to share your thoughts and ask questions
 - 📝 Check out our [blog](https://configu.com/blog/?utm_source=github&utm_medium=community_health) for updates, how-tos, and resources
-
-[^origin]: software **configu**~~ration~~ data.
